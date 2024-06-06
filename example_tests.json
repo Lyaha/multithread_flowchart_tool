@@ -1,0 +1,12 @@
+[
+    {
+        "input": [10],
+        "expected_output": [10],
+        "num_threads": 1
+    },
+    {
+        "input": [5],
+        "expected_output": [5, 5],
+        "num_threads": 2
+    }
+]

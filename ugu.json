@@ -1,0 +1,1 @@
+[{"type": "input", "content": "0"}, {"type": "assignment", "content": "1,0"}, {"type": "condition", "content": "0,==,10"}, {"type": "output", "content": "0"}, {"type": "condition", "content": "0,<,10"}, {"type": "output", "content": "0"}]
